@@ -1,0 +1,18 @@
+{
+    "users": [
+        {
+            "id": "user_693bcd6e388939.71895115",
+            "username": "Yuky_Onna",
+            "email": "yuky_onna@mail.ru",
+            "password_hash": "$2y$10$M.nK8IKtsWzjSt145o\/RzOGZF7cGv4G4OTnnLzdBPwPlI4t8PjLQW",
+            "created_at": "2025-12-12 09:08:14"
+        },
+        {
+            "id": "user_693bcdad0b8120.28786957",
+            "username": "user",
+            "email": "hdhjfjhdhd@mail.ru",
+            "password_hash": "$2y$10$7OvFvkAvlDF9VvFcrrD01OdIihZ109HuUsGUT1alUKD7ib2wMdtjm",
+            "created_at": "2025-12-12 09:09:17"
+        }
+    ]
+}
